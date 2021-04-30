@@ -1,0 +1,21 @@
+.column {
+    float: left;
+    width: 33.33%;
+}
+.row1:after {
+    content: "";
+    display: table;
+    clear: both;
+}    
+p {
+    color: black;
+    background-color:lightsalmon;
+    text-align: center;
+    padding: 20px;
+
+}
+.columncontent{
+    float: left;
+    width: 33.33%;
+
+}
